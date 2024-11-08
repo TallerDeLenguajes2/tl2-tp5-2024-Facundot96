@@ -50,4 +50,5 @@ public class BudgetController : ControllerBase
         _budgetRepository.deleteBudgetById(id);
         return Ok();
     }
+    
 }

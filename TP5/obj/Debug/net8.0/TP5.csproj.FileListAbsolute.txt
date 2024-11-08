@@ -115,3 +115,4 @@ D:\RiderProyects\tl2-tp5-2024-Facundot96\TP5\obj\Debug\net8.0\refint\TP5.dll
 D:\RiderProyects\tl2-tp5-2024-Facundot96\TP5\obj\Debug\net8.0\TP5.pdb
 D:\RiderProyects\tl2-tp5-2024-Facundot96\TP5\obj\Debug\net8.0\TP5.genruntimeconfig.cache
 D:\RiderProyects\tl2-tp5-2024-Facundot96\TP5\obj\Debug\net8.0\ref\TP5.dll
+C:\Users\faku_\OneDrive\Documentos\GitHub\tl2-tp5-2024-Facundot96\TP5\bin\Debug\net8.0\Database\Tienda.db

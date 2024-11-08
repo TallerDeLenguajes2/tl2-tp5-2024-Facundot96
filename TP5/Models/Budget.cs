@@ -11,7 +11,7 @@ public class Budget
     {
         this.clientName = clientName;
         this.details = details;
-        this.dateCreated = date;
+        dateCreated = date;
     }
 
     public Budget()
